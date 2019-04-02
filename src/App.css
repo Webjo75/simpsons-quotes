@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background: gray;
 }
 
 .App-logo {
@@ -7,6 +8,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+
+.job-speed {
+  animation: App-logo-spin infinite 1s linear;
+}
+
 
 .App-header {
   background-color: #282c34;
